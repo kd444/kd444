@@ -76,7 +76,7 @@
 | Assistant System Engineer |  [@TCS][tcs]   | April 2021 - Present |
 
 ---
-
+<!-- 
 ## 👨‍🎓🎓 Courses/Certifications 🎓👨‍🎓
 
 |                           🍱 Course                           | 🏢Organization | ⏰Timeline |
@@ -88,7 +88,7 @@
 |          [Introduction to Git and GitHub][git-certi]          |    Coursera    | June 2020  |
 |               [Programming In Java][nptel-java]               |     UDEMY      |  Apr 2019  |
 |          [Diploma in Machine Learning][grass-certi]           |     GRASS      | Sept 2020  |
-
+ -->
 ---
 
 <h3>👑🔺Most Popular Open-Source Repositories🔺👑</h3>
