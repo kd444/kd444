@@ -6,7 +6,7 @@
 -   🔭 My current focus is improving my problem solving muscle using DSA.
 -   🌱 I’m currently learning ML Algos.
 -   ⚡ Fun fact: I like driving, chess, photography and procrastinating.
--   ⚡ Fun fact: I like driving, chess, photography and procrastinating.
+
 
 ### Connect with me:
 
@@ -108,7 +108,7 @@
 
 <!-- Connect with me -->
 
-[instagram]: https://www.instagram.com/darshan.k98
+[instagram]: https://www.instagram.com/darshan.k98/
 [linkedin]: https://www.linkedin.com/in/d-k-177532219/
 [codechef]: https://www.codechef.com/users/darshan998
 [leetcode]: https://leetcode.com/kd_98/
