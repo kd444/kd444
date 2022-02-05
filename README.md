@@ -27,7 +27,7 @@
 <code><img src="https://user-images.githubusercontent.com/56977021/138323146-a994b0a6-d746-4f21-914d-b3068d3ad0b4.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/56977021/138315503-c4ffca61-0f7a-4861-8c0b-28fcf9e0e542.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/56977021/138315505-eda55214-f45f-48e6-8ed6-a6e5c5944773.png" height="30"></code>
-<code><img src="https://user-images.githubusercontent.com/56977021/138318686-1bf6952a-cccb-400c-9114-11566930c307.jpg" height="30"></code>
+
 
 ### Web Development (Full-stack):
 
@@ -57,7 +57,6 @@
 ### Database:
 
 <code><img src="https://user-images.githubusercontent.com/56977021/138321816-bd9ca266-53ed-4a6d-8ad4-cc35ba96f818.png" height="30"></code>
-<code><img src="https://user-images.githubusercontent.com/56977021/138321820-a37fb179-a4c6-4a3f-9d15-f9a727041fac.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/56977021/138321814-05ffe4a7-ed04-44d7-bc75-a93e511c21ff.png" height="30"></code>
 
 ### Cloud/Dev-Ops:
@@ -81,13 +80,11 @@
 
 |                           🍱 Course                           | 🏢Organization | ⏰Timeline |
 | :-----------------------------------------------------------: | :------------: | :--------: |
-|          [Kotlin for Java Developers][kotlin-certi]           |    Coursera    | Sept 2020  |
-|     [Deep Learning Fundamentals with Keras][keras-certi]      |     UDEMY      | July 2020  |
 | [Introduction to TensorFlow for AI, ML, and DL][tensor-certi] |    Coursera    | June 2020  |
 |       [Using Python to Interact with the OS][os-certi]        |    Coursera    | June 2020  |
 |          [Introduction to Git and GitHub][git-certi]          |    Coursera    | June 2020  |
-|               [Programming In Java][nptel-java]               |     UDEMY      |  Apr 2019  |
-|          [Diploma in Machine Learning][grass-certi]           |     GRASS      | Sept 2020  |
+
+
  -->
 ---
 
