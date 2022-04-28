@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Darshan Karkera -  [kd][codechef]
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Darshan Karkera - [kd][codechef]
 
 ## I'm a Developer!!
 
@@ -6,7 +6,6 @@
 -   🔭 My current focus is improving my problem solving muscle using DSA.
 -   🌱 I’m currently learning ML Algos.
 -   ⚡ Fun fact: I like driving, chess, photography and procrastinating.
-
 
 ### Connect with me:
 
@@ -22,12 +21,10 @@
 
 ### Languages:
 
-
 <code><img src="https://user-images.githubusercontent.com/56977021/138318676-04ddfcc7-3ab4-4fba-a7ba-ddd743d7705e.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/56977021/138323146-a994b0a6-d746-4f21-914d-b3068d3ad0b4.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/56977021/138315503-c4ffca61-0f7a-4861-8c0b-28fcf9e0e542.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/56977021/138315505-eda55214-f45f-48e6-8ed6-a6e5c5944773.png" height="30"></code>
-
 
 ### Web Development (Full-stack):
 
@@ -38,6 +35,7 @@
 <code><img src="https://user-images.githubusercontent.com/56977021/138566322-78dae502-d917-4172-8ae2-dfb7f2e5a68b.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/56977021/138566323-022d49b6-f69b-4498-9ab3-9f2b747192ef.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/56977021/138566314-d57ca5ae-1192-4d87-8db6-87f211533913.jpeg" height="30"></code> -->
+
 <code><img src="https://user-images.githubusercontent.com/56977021/138566375-dc5ef350-2d83-42e9-a97e-1b1208fc772d.jpg" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/56977021/138566325-3a2abf8f-14ae-4784-9ee4-f60e115af422.jpg" height="30"></code>
 
@@ -75,17 +73,20 @@
 | Assistant System Engineer |  [@TCS][tcs]   | April 2021 - Present |
 
 ---
-<!-- 
+
 ## 👨‍🎓🎓 Courses/Certifications 🎓👨‍🎓
 
-|                           🍱 Course                           | 🏢Organization | ⏰Timeline |
-| :-----------------------------------------------------------: | :------------: | :--------: |
-| [Introduction to TensorFlow for AI, ML, and DL][tensor-certi] |    Coursera    | June 2020  |
-|       [Using Python to Interact with the OS][os-certi]        |    Coursera    | June 2020  |
-|          [Introduction to Git and GitHub][git-certi]          |    Coursera    | June 2020  |
+|                  🍱 Course                   | 🏢Organization | ⏰Timeline |
+| :------------------------------------------: | :------------: | :--------: |
+| [Vue JS with Vuex and Vue Router][vue-certi] |    Coursera    |  Aug 2021  |
 
+---
 
- -->
+## 🏆 Achievements and Awards 🏆
+
+| [On Spot Award][on-spot-award] for identifying and resolving critical severity issues with a live production application with my technical expertise |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+
 ---
 
 <h3>👑🔺Most Popular Open-Source Repositories🔺👑</h3>
@@ -93,13 +94,22 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>🛠 Language/Tools</b></td>
+      <td><b>⏰Timeline</b></td>
     </tr>
   </thead>
   <tbody>
   <tr>
-	    <td><a href="https://github.com/kd444/MovieSearchVue"><b>Movie Search</b></a></td>
+	    <td><a href="https://github.com/kd444/VUE_Movie_Search_App"><b>Movie Search</b></a></td>
+      <td><b>VUE, JS, HTML</b></td>
+      <td><b>2021</b></td>
   </tr>
-
+ <tr>
+	    <td><a href="https://github.com/kd444/MERN_E-Commerce_App"><b>MERN_E-Commerce_App
+</b></a></td>
+      <td><b>HTML, CSS, JS, Bootstrap</b></td>
+      <td><b>2022</b></td>
+  </tr>
   </tbody>	 
 </table>
 
@@ -158,12 +168,14 @@
 
 [tcs]: https://www.tcs.com/
 
+<!-- [grass]: -->
+
 <!-- Course/Certifications -->
 
-[kotlin-certi]: https://www.coursera.org/account/accomplishments/verify/R4PVVN8KUX43
-[keras-certi]: https://courses.edx.org/certificates/d64a75026d484953a517807bb5f7cc13
-[tensor-certi]: https://www.coursera.org/account/accomplishments/verify/QZJMJ6B7EJ85
-[os-certi]: https://www.coursera.org/account/accomplishments/verify/5927X45V6EVY
-[git-certi]: https://www.coursera.org/account/accomplishments/verify/78S9DKM6BMPD
-[nptel-java]: https://user-images.githubusercontent.com/56977021/138568941-24b019f0-2e82-4082-9bd3-607f218b5a71.jpg
-[grass-certi]: https://user-images.githubusercontent.com/56977021/138568861-34110664-c25d-4ea6-a0da-402e332701a5.PNG
+[vue-certi]: https://drive.google.com/file/d/1HiC_aSiJkHbIn_x9pYXzKJ7uAl3i67V1/view?usp=sharing
+
+<!-- [grass-certi]: https://user-images.githubusercontent.com/56977021/138568861-34110664-c25d-4ea6-a0da-402e332701a5.PNG -->
+
+<!-- Achievements and Awards -->
+
+[on-spot-award]: https://drive.google.com/file/d/1SIJsE4FFVQiq6ntG7HGxK5f0Daso6Vv3/view?usp=sharing
