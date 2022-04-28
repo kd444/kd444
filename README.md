@@ -78,7 +78,7 @@
 
 |                  🍱 Course                   | 🏢Organization | ⏰Timeline |
 | :------------------------------------------: | :------------: | :--------: |
-| [Vue JS with Vuex and Vue Router][vue-certi] |    Coursera    |  Aug 2021  |
+| [Vue JS with Vuex and Vue Router][vue-certi] |    Udemy    |  Aug 2021  |
 
 ---
 
