@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Darshan Karkera - [kd][codechef]
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm Darshan Karkera - [kd][codechef]
 
 ## I'm a Developer!!
 
