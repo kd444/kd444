@@ -1,16 +1,177 @@
-### Hi there 👋
+### hey there , I'm Darshan Karkera - [kd][codechef]
 
-<!--
-**kd444/kd444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer!!
 
-Here are some ideas to get you started:
+-   🏢 I'm currently working as a Fullstack Developer in TCS.
+-   🔭 My current focus is improving my problem solving muscle using DSA.
+-   🌱 I’m currently learning ML Algos.
+-   ⚡ Fun fact: I like driving, photography and procrastinating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="30px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGZKGGJ75S72g/company-logo_200_200/0/1629754938156?e=2159024400&v=beta&t=IBmR7Q39iR_z3FiY6IcQlprM2MrTQxERxe2S1B1GY_M" />][linkedin]
+[<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
+
+<br />
+
+---
+
+## :open_book: :books: Skilled in :closed_book: :desktop_computer:
+
+### Languages:
+
+<code><img src="https://user-images.githubusercontent.com/56977021/138318676-04ddfcc7-3ab4-4fba-a7ba-ddd743d7705e.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138323146-a994b0a6-d746-4f21-914d-b3068d3ad0b4.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138315503-c4ffca61-0f7a-4861-8c0b-28fcf9e0e542.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138315505-eda55214-f45f-48e6-8ed6-a6e5c5944773.png" height="30"></code>
+
+### Web Development (Full-stack):
+
+### Backend/Server:
+
+<code><img src="https://user-images.githubusercontent.com/56977021/138566323-022d49b6-f69b-4498-9ab3-9f2b747192ef.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138566375-dc5ef350-2d83-42e9-a97e-1b1208fc772d.jpg" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138566325-3a2abf8f-14ae-4784-9ee4-f60e115af422.jpg" height="30"></code>
+
+### Micro-Services:
+
+<code><img src="https://user-images.githubusercontent.com/56977021/138566676-2c65cea1-b8b8-43fd-ab42-3a9cc9a781b1.png" height="30"></code>
+
+### Frontend/UI:
+
+<code><img src="https://user-images.githubusercontent.com/56977021/138566892-35bc7b33-5fac-4b4b-a271-94f4f69c40b8.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138566891-3dc05a23-8e04-4693-bcc1-ff97979f2ee8.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138566893-8c705426-4fc4-41d1-a0ea-31a36a4d8de6.jpg" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138566890-76eecdbb-faec-4190-80ce-7a6f870fff34.jpg" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138566894-4411fd1e-b25c-4335-abd1-bfc7bcc4d371.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138566895-772947ec-8e43-484a-a834-4a21400e436c.jpeg" height="30"></code>
+
+### Database:
+
+<code><img src="https://user-images.githubusercontent.com/56977021/138321816-bd9ca266-53ed-4a6d-8ad4-cc35ba96f818.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138321820-a37fb179-a4c6-4a3f-9d15-f9a727041fac.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138321814-05ffe4a7-ed04-44d7-bc75-a93e511c21ff.png" height="30"></code>
+
+### Cloud/Dev-Ops:
+
+<code><img src="https://user-images.githubusercontent.com/56977021/138567224-0ceecf15-530d-45d1-9989-35b37e5ff1f8.jpeg" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138567228-e90aa04d-e125-42d3-985e-c9412e22be37.jpg" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138567230-85d23e55-d06b-421f-8712-2f4b7276a7f4.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/56977021/138567229-57b27cc3-d139-4706-ab9e-e34e54a1ee7d.jpg" height="30"></code>
+
+---
+
+## Work Experience :computer_mouse: :desktop_computer: :keyboard:
+
+|      💼 Designation       | 🏢Organization |      ⏰Timeline      |
+| :-----------------------: | :------------: | :------------------: |
+| Assistant System Engineer |  [@TCS][tcs]   | April 2021 - Present |
+
+---
+
+## 👨‍🎓🎓 Courses/Certifications 🎓👨‍🎓
+
+|                  🍱 Course                   | 🏢Organization | ⏰Timeline |
+| :------------------------------------------: | :------------: | :--------: |
+| [Vue JS with Vuex and Vue Router][vue-certi] |     Udemy      |  Aug 2021  |
+
+---
+
+## 🏆 Achievements and Awards 🏆
+
+| [On Spot Award][on-spot-award] for identifying and resolving critical severity issues with a live production application with my technical expertise |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+---
+
+<h3>👑🔺Most Popular Open-Source Repositories🔺👑</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>🛠 Language/Tools</b></td>
+      <td><b>⏰Timeline</b></td>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+	    <td><a href="https://github.com/kd444/VUE_Movie_Search_App"><b>Movie Search</b></a></td>
+      <td><b>VUE, JS, HTML</b></td>
+      <td><b>2021</b></td>
+  </tr>
+ <tr>
+	    <td><a href="https://github.com/kd444/MERN_E-Commerce_App"><b>MERN_E-Commerce_App
+</b></a></td>
+      <td><b>HTML, CSS, JS, Bootstrap</b></td>
+      <td><b>2022</b></td>
+  </tr>
+  </tbody>	 
+</table>
+
+<!-- Connect with me -->
+
+[instagram]: https://www.instagram.com/darshan.k98/
+[linkedin]: https://www.linkedin.com/in/darshan-k98
+[codechef]: https://www.codechef.com/users/darshan998
+[leetcode]: https://leetcode.com/kd_98/
+
+<!-- LANGUAGES -->
+
+[c]: https://user-images.githubusercontent.com/56977021/138315498-528399d9-ded5-4e83-b972-41cc78d9e0b8.png
+[cpp]: https://user-images.githubusercontent.com/56977021/138318676-04ddfcc7-3ab4-4fba-a7ba-ddd743d7705e.png
+[java]: https://user-images.githubusercontent.com/56977021/138323146-a994b0a6-d746-4f21-914d-b3068d3ad0b4.png
+[js]: https://user-images.githubusercontent.com/56977021/138315503-c4ffca61-0f7a-4861-8c0b-28fcf9e0e542.png
+[python]: https://user-images.githubusercontent.com/56977021/138315505-eda55214-f45f-48e6-8ed6-a6e5c5944773.png
+[kotlin]: https://user-images.githubusercontent.com/56977021/138318686-1bf6952a-cccb-400c-9114-11566930c307.jpg
+
+<!-- Web Development (Full-stack)-->
+<!-- Backend -->
+
+[jsp]: "https://user-images.githubusercontent.com/56977021/138566315-327d1ed0-af57-4804-ae70-3b461b9a302d.png"
+[servlet]: "https://user-images.githubusercontent.com/56977021/138566318-fa4b9915-63aa-4eda-b31a-d6fb8269a50d.png"
+[spring]: "https://user-images.githubusercontent.com/56977021/138566322-78dae502-d917-4172-8ae2-dfb7f2e5a68b.png"
+[spring-boot]: "https://user-images.githubusercontent.com/56977021/138566323-022d49b6-f69b-4498-9ab3-9f2b747192ef.png"
+[hibernate]: "https://user-images.githubusercontent.com/56977021/138566314-d57ca5ae-1192-4d87-8db6-87f211533913.jpeg"
+[node]: "https://user-images.githubusercontent.com/56977021/138566375-dc5ef350-2d83-42e9-a97e-1b1208fc772d.jpg"
+
+<!-- Microservices -->
+
+[rest]: "https://user-images.githubusercontent.com/56977021/138566676-2c65cea1-b8b8-43fd-ab42-3a9cc9a781b1.png"
+
+<!-- Frontend -->
+
+[bt]: "https://user-images.githubusercontent.com/56977021/138566890-76eecdbb-faec-4190-80ce-7a6f870fff34.jpg"
+[css]: "https://user-images.githubusercontent.com/56977021/138566891-3dc05a23-8e04-4693-bcc1-ff97979f2ee8.png"
+[html]: "https://user-images.githubusercontent.com/56977021/138566892-35bc7b33-5fac-4b4b-a271-94f4f69c40b8.png"
+[jq]: "https://user-images.githubusercontent.com/56977021/138566893-8c705426-4fc4-41d1-a0ea-31a36a4d8de6.jpg"
+[react]: "https://user-images.githubusercontent.com/56977021/138566894-4411fd1e-b25c-4335-abd1-bfc7bcc4d371.png"
+[vue]: "https://user-images.githubusercontent.com/56977021/138566895-772947ec-8e43-484a-a834-4a21400e436c.jpeg"
+
+<!-- Database -->
+
+[mysql1]: "https://user-images.githubusercontent.com/56977021/138321816-bd9ca266-53ed-4a6d-8ad4-cc35ba96f818.png"
+[mongo]: "https://user-images.githubusercontent.com/56977021/138321814-05ffe4a7-ed04-44d7-bc75-a93e511c21ff.png"
+
+<!-- Cloud/Devops -->
+
+[git]: "https://user-images.githubusercontent.com/56977021/138567224-0ceecf15-530d-45d1-9989-35b37e5ff1f8.jpeg"
+[github]: "https://user-images.githubusercontent.com/56977021/138567228-e90aa04d-e125-42d3-985e-c9412e22be37.jpg"
+[maven]: "https://user-images.githubusercontent.com/56977021/138567229-57b27cc3-d139-4706-ab9e-e34e54a1ee7d.jpg"
+[npm]: "https://user-images.githubusercontent.com/56977021/138567230-85d23e55-d06b-421f-8712-2f4b7276a7f4.png"
+
+<!-- Work Experience -->
+
+[tcs]: https://www.tcs.com/
+
+<!-- [grass]: -->
+
+<!-- Course/Certifications -->
+
+[vue-certi]: https://drive.google.com/file/d/1HiC_aSiJkHbIn_x9pYXzKJ7uAl3i67V1/view?usp=sharing
+
+<!-- [grass-certi]: https://user-images.githubusercontent.com/56977021/138568861-34110664-c25d-4ea6-a0da-402e332701a5.PNG -->
+
+<!-- Achievements and Awards -->
+
+[on-spot-award]: https://drive.google.com/file/d/1SIJsE4FFVQiq6ntG7HGxK5f0Daso6Vv3/view?usp=sharing
