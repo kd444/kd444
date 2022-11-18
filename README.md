@@ -12,7 +12,7 @@
 [<img align="left" alt="LinkedIn" width="30px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGZKGGJ75S72g/company-logo_200_200/0/1629754938156?e=2159024400&v=beta&t=IBmR7Q39iR_z3FiY6IcQlprM2MrTQxERxe2S1B1GY_M" />][linkedin]
 [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
-[<img align="left" alt="Instagram" width="30px" src="https://commons.wikimedia.org/wiki/Category:Kaggle#/media/File:Kaggle_logo.png" />][kaggle]
+[<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7c/20140912155122%21Kaggle_logo.png" />][kaggle]
 <br />
 
 ---
