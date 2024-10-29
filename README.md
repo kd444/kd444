@@ -111,7 +111,7 @@
 
 <!-- Connect with me -->
 
-[instagram]: https://www.instagram.com/darshan.k98/
+[instagram]: https://www.instagram.com/darshank98_/
 [linkedin]: https://www.linkedin.com/in/darshan-k98
 [codechef]: https://www.codechef.com/users/darshan998
 [leetcode]: https://leetcode.com/kd_98/
